@@ -1,0 +1,97 @@
+cff-version: 1.2.0
+message: "If you use AquaMonitor in your research, please cite both this software and the companion paper."
+type: software
+title: "AquaMonitor Research Platform"
+abstract: >
+  Complete source code for the AquaMonitor Research Platform — a suite of
+  interoperable, zero-dependency web tools implementing the M0–M6 mathematical
+  framework for heavy metal bioaccumulation and cancer risk assessment in
+  canal-fed aquaculture systems. Companion to Uno et al. (2026), Exposure and Health.
+authors:
+  - family-names: Uno
+    given-names: Ukam
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Singchat
+    given-names: Worapong
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Panthum
+    given-names: Thitipong
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Chaiyes
+    given-names: Aingorn
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Ekerette
+    given-names: Ekerette
+  - family-names: Edem
+    given-names: Uduak
+  - family-names: Jeamsripong
+    given-names: Saharuetai
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Uchuwittayakul
+    given-names: Anurak
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Sirisaksoontorn
+    given-names: Weekit
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Sinthuvanich
+    given-names: Chomdao
+    affiliation: Kasetsart University, Bangkok, Thailand
+  - family-names: Srikulnath
+    given-names: Kornsorn
+    affiliation: Kasetsart University, Bangkok, Thailand
+    email: kornsorn.s@ku.ac.th
+    orcid: "https://orcid.org/0000-0003-2079-6399"
+version: 1.0.0
+date-released: "2026-06-20"
+license: MIT
+repository-code: "https://github.com/[repository to be confirmed]"
+doi: "[Zenodo DOI to be inserted on acceptance]"
+url: "https://zenodo.org/[DOI to be inserted on acceptance]"
+keywords:
+  - aquaculture
+  - heavy metals
+  - cancer risk assessment
+  - sensitivity analysis
+  - bioaccumulation
+  - catfish
+  - Thailand
+  - Pathum Thani
+  - chromium
+  - sediment contamination
+  - Sobol indices
+  - Kalman filter
+  - GAP reform
+references:
+  - type: article
+    title: >
+      Spatial land use dynamics driving molecular stress and unacceptable human
+      health risks in standardized catfish aquaculture systems
+    authors:
+      - family-names: Uno
+        given-names: Ukam
+      - family-names: Singchat
+        given-names: Worapong
+      - family-names: Panthum
+        given-names: Thitipong
+      - family-names: Chaiyes
+        given-names: Aingorn
+      - family-names: Ekerette
+        given-names: Ekerette
+      - family-names: Edem
+        given-names: Uduak
+      - family-names: Jeamsripong
+        given-names: Saharuetai
+      - family-names: Uchuwittayakul
+        given-names: Anurak
+      - family-names: Sirisaksoontorn
+        given-names: Weekit
+      - family-names: Sinthuvanich
+        given-names: Chomdao
+      - family-names: Srikulnath
+        given-names: Kornsorn
+    journal: Environments
+    volume: 13
+    issue: 4
+    article-number: "231"
+    year: 2026
+    doi: 10.3390/environments13040231
