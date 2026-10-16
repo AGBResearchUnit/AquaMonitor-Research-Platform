@@ -1,0 +1,60 @@
+{
+  "upload_type": "software",
+  "title": "AquaMonitor Research Platform",
+  "description": "Open-source mathematical modeling and decision-support platform for heavy-metal bioaccumulation, human health risk assessment, sensitivity analysis, and scenario forecasting in canal-fed aquaculture.",
+  "creators": [
+    {
+      "name": "Uno, Ukam",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Singchat, Worapong",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Panthum, Thitipong",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Chaiyes, Aingorn",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Ekerette, Ekerette"
+    },
+    {
+      "name": "Edem, Uduak"
+    },
+    {
+      "name": "Jeamsripong, Saharuetai",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Uchuwittayakul, Anurak",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Sirisaksoontorn, Weekit",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Sinthuvanich, Chomdao",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    },
+    {
+      "name": "Srikulnath, Kornsorn",
+      "affiliation": "Kasetsart University, Bangkok, Thailand"
+    }
+  ],
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "aquaculture",
+    "heavy metals",
+    "bioaccumulation",
+    "health risk",
+    "sensitivity analysis",
+    "AquaMonitor"
+  ],
+  "language": "eng"
+}
