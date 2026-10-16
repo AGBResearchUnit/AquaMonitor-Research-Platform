@@ -41,12 +41,10 @@ authors:
     affiliation: Kasetsart University, Bangkok, Thailand
     email: kornsorn.s@ku.ac.th
     orcid: "https://orcid.org/0000-0003-2079-6399"
-version: 1.0.0
-date-released: "2026-06-20"
+version: 1.0.1
+date-released: "2026-10-16"
 license: MIT
-repository-code: "https://github.com/[repository to be confirmed]"
-doi: "[Zenodo DOI to be inserted on acceptance]"
-url: "https://zenodo.org/[DOI to be inserted on acceptance]"
+repository-code: "https://github.com/AGBResearchUnit/AquaMonitor-Research-Platform"
 keywords:
   - aquaculture
   - heavy metals
